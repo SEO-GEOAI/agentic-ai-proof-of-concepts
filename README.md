@@ -45,6 +45,70 @@ Proof-of-concept video demonstrations of agentic AI agent engineering, built wit
       <br>
       <b>5) <a href="https://www.youtube.com/watch?v=se4GTKvLXrI">Agentic AI Agent: Card Payment and Digital Wallet Dashboard</a></b>
     </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=X0AnALYEl8Q">
+        <img src="https://img.youtube.com/vi/X0AnALYEl8Q/maxresdefault.jpg" alt="Agentic AI Agent Evaluation: How to Determine the Confidence Level" width="100%">
+      </a>
+      <br>
+      <b>6) <a href="https://www.youtube.com/watch?v=X0AnALYEl8Q">Agentic AI Agent Evaluation: How to Determine the Confidence Level</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=9IhSpBg-HxY">
+        <img src="https://img.youtube.com/vi/9IhSpBg-HxY/maxresdefault.jpg" alt="Human-in-the-Loop (HITL) Handoff: Healthcare Agentic AI Agent" width="100%">
+      </a>
+      <br>
+      <b>7) <a href="https://www.youtube.com/watch?v=9IhSpBg-HxY">Human-in-the-Loop (HITL) Handoff: Healthcare Agentic AI Agent</a></b>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=hslE7YjiYjk">
+        <img src="https://img.youtube.com/vi/hslE7YjiYjk/maxresdefault.jpg" alt="What Is a Forward Deployed Engineer (FDE)?" width="100%">
+      </a>
+      <br>
+      <b>8) <a href="https://www.youtube.com/watch?v=hslE7YjiYjk">What Is a Forward Deployed Engineer (FDE)?</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=7jNCAiSEHoY">
+        <img src="https://img.youtube.com/vi/7jNCAiSEHoY/maxresdefault.jpg" alt="Legal Conversational Agentic AI Agent: Personal Injury Intake" width="100%">
+      </a>
+      <br>
+      <b>9) <a href="https://www.youtube.com/watch?v=7jNCAiSEHoY">Legal Conversational Agentic AI Agent: Personal Injury Intake</a></b>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=wlmsSaNzPRM">
+        <img src="https://img.youtube.com/vi/wlmsSaNzPRM/maxresdefault.jpg" alt="Agentic AI Agent for GTM Sales: Email Marketing" width="100%">
+      </a>
+      <br>
+      <b>10) <a href="https://www.youtube.com/watch?v=wlmsSaNzPRM">Agentic AI Agent for GTM Sales: Email Marketing</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=NjE2HHAHKe0">
+        <img src="https://img.youtube.com/vi/NjE2HHAHKe0/maxresdefault.jpg" alt="What Is Context Rot? Content Decay in Agentic AI Agents" width="100%">
+      </a>
+      <br>
+      <b>11) <a href="https://www.youtube.com/watch?v=NjE2HHAHKe0">What Is Context Rot? Content Decay in Agentic AI Agents</a></b>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=vOx86-bj6sE">
+        <img src="https://img.youtube.com/vi/vOx86-bj6sE/maxresdefault.jpg" alt="LLMs, Kung Fu, and Ninjas: Red Teams" width="100%">
+      </a>
+      <br>
+      <b>12) <a href="https://www.youtube.com/watch?v=vOx86-bj6sE">LLMs, Kung Fu, and Ninjas: Red Teams</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=3dNTGmby_yU">
+        <img src="https://img.youtube.com/vi/3dNTGmby_yU/maxresdefault.jpg" alt="Agentic AI Production &amp; Evaluation Roadmap" width="100%">
+      </a>
+      <br>
+      <b>13) <a href="https://www.youtube.com/watch?v=3dNTGmby_yU">Agentic AI Production &amp; Evaluation Roadmap</a></b>
+    </td>
     <td width="50%"></td>
   </tr>
 </table>
