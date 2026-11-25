@@ -123,6 +123,12 @@ Proof-of-concept video demonstrations of agentic AI agent engineering, built wit
 
 Inquire about my agentic AI agent engineering and Claude Code, Claude Design, and Claude AI video workflow with LinkedIn messaging. 💻🎨🎥
 
+Skills shown in these proof of concepts: agentic AI agent engineering, Human-in-the-Loop (HITL) workflows, context engineering, content engineering, prompt engineering, technical content writing, and UX design. 📝
+
 ✅ Jon Barrett LinkedIn Profile: https://www.linkedin.com/in/jon-barrett-129bb9b
 
 👉 Portfolio: https://barrettrestore.wixsite.com/jonwebsite
+
+📺 YouTube Channel: https://www.youtube.com/@jonbarrett9053
+
+📚 Google Scholar: https://scholar.google.com/citations?hl=en&user=BcLad_kAAAAJ
