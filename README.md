@@ -109,7 +109,13 @@ Proof-of-concept video demonstrations of agentic AI agent engineering, built wit
       <br>
       <b>13) <a href="https://www.youtube.com/watch?v=3dNTGmby_yU">Agentic AI Production &amp; Evaluation Roadmap</a></b>
     </td>
-    <td width="50%"></td>
+        <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=o4VWeT9lADw">
+        <img src="https://img.youtube.com/vi/o4VWeT9lADw/maxresdefault.jpg" alt="What Is a Tokenizer? Optimized Prompts, Fewer Tokens" width="100%">
+      </a>
+      <br>
+      <b>14) <a href="https://www.youtube.com/watch?v=o4VWeT9lADw">What Is a Tokenizer? Optimized Prompts, Fewer Tokens</a></b>
+    </td>
   </tr>
 </table>
 
